@@ -1,5 +1,6 @@
 import os
 
+
 def main():
     input_text = input('Input text: ')
     path_text = input('Path: ')
