@@ -3,7 +3,12 @@ import requests
 
 
 """
-    CURRENTLY UNABLE TO DO THIS PROJECT
+    Downloads a specified user's profile picture
+    Can't currently complete!
+    Need to understand:
+        - requests
+        - image viewing
+        - browser driver for logging in
 """
 
 def main():
