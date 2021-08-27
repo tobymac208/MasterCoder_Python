@@ -14,7 +14,7 @@ def main():
     NUMBER_RANGE = 10
     #   - puncutation
     punctuation = ''
-    PUNCTUATION_VALUES = "!#$%&'()*+,-./:;<=>?@[\]^_{|}~"
+    PUNCTUATION_VALUES = "',.:;?@_~"
 
     # generate three numbers. we'll concatenate these later
     # generate three random upper letters
